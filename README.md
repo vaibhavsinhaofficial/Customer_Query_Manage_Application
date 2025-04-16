@@ -1,5 +1,9 @@
-# Customer_Query_Manage_Application
+# Bankconnect HRIS | View Project
 
-Here, This is a web application in which customers of a Broadband company can easily raise their query about anything related to the broadband service they using on Customer Module.
-<br>
-Admin Manager check all the queries and mark completed or assigned the dedicated officer to their customers, on the basis of the marking the query the tracking ID is genearted and mail all necessary details tracking ID directly to the customer.
+Developed a web application for Bankconnect, a payment gateway company, to help Business Developers (BDs) track their incentives based on merchant transactions and success rates.
+
+Integrated Google applications (Calendar, Meetings, Google Keep) to fetch schedules, meetings, and notes directly within the platform.
+
+Integrated Slack to streamline communication—no need to switch between apps. Just open Bankconnect HRIS and access everything in one place.
+
+Managers can also track employee statistics such as total working hours, leave records, and project performance through the application.
